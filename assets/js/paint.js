@@ -22,7 +22,7 @@ function removeOpacity(event) {
 
   event.preventDefault();
 }
-
+// adding event listeners so price and color name pop up, as well as opacity for that img
 function settingListeners() {
   let images = document.getElementsByTagName("img");
 
