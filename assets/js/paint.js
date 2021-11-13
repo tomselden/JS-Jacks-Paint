@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 // function that adds opcacity when you hover over a img
 function addOpacity(event) {
   if (!this.classList.contains("dim")) {
